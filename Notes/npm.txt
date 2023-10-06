@@ -1,0 +1,11 @@
+Npm comes with node, it's a global project.
+npm calls the reusable code a package
+A package is essentially a folder that contains a javascript code.
+modules, nodes and Packages are used interchangebly.
+There is no quality control in npm registry.
+Good indicator is the amount of weekly download.
+If there is a bug, it has a working solution or is already fixed. 
+
+So what is an Entry Point in npm
+!! npm packages cannot have Capital letters.
+Bigger packages might mean more dependencies.
