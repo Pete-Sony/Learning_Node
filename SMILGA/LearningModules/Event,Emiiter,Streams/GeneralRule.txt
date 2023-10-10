@@ -1,0 +1,10 @@
+It is better to have a deep understanding of node concepts when you have 
+two or three projects under your belt.
+You don't need to understand every concept 
+thoroughly before doing projects 
+The essential idea of doing projects is to understand the ideas deeply.
+It is an ongoing learning curve.
+Synchronous and single threaded.
+Javascript is synchronous and single threaded.
+It is a facy way of saying that javascript reads line by line.
+The browser provides api to block the code.

@@ -13,6 +13,6 @@ There is three ways you could use node
 */
 UNINSTALL
 npm uninstall <packageName>
-Alternatelu you could  delete the node_module folder and the 
+Alternately you could  delete the node_module folder and the 
 package_lock json folder.
 (As you only need to install it by using npm install)
