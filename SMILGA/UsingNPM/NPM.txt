@@ -1,0 +1,18 @@
+/* Local dependency - use it any project.
+npm i <packageName>
+
+Global dependency -use it in  every project.
+npm install -g <packageName>
+#NOTE : You might need to use sudo to install globally
+sudo npm install -g <packageName>
+
+There is three ways you could use node
+1. Manually - You create a File{Package.Json} by manually entering
+2.  npm init(Step by Step,)
+3. npm init -y (everything by default)g
+*/
+UNINSTALL
+npm uninstall <packageName>
+Alternatelu you could  delete the node_module folder and the 
+package_lock json folder.
+(As you only need to install it by using npm install)

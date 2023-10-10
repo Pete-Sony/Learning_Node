@@ -1,1 +1,4 @@
 /node_modules
+# The node modules are not uploaded into the online git repository.
+# To run the code after downloading, use npm install.
+# "npm install" installs the dependencies from the package-json file.

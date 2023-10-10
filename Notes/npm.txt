@@ -9,3 +9,8 @@ If there is a bug, it has a working solution or is already fixed.
 So what is an Entry Point in npm
 !! npm packages cannot have Capital letters.
 Bigger packages might mean more dependencies.
+
+ ----------------Installing dev dependencies--------------------
+ npm i <packageName> -D 
+       or
+ npm i <packageName> --save-dev      

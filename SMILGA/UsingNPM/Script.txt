@@ -1,0 +1,4 @@
+While writing customized Scripts in package.json File, some scripts can be 
+run while typing "npm <scriptName>", while others require "npm run <ScriptName>"
+How to figure out which is which is something i don't know.
+"npm run <ScriptName> " is the more general one.
