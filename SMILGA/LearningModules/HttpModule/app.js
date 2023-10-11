@@ -6,7 +6,10 @@ const server = http.createServer((req,res)=>{
     console.log(req)
     if(req.url === '/')
     {
-        res.end("Welcome to our home page")
+        res.end(`
+        <h1>Hi Alex</h1>
+        <p>Oodada Myre</p>
+        `)
     }
     if (req.url ==="/secret")
     {
