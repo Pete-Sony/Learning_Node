@@ -7,4 +7,4 @@ It is an ongoing learning curve.
 Synchronous and single threaded.
 Javascript is synchronous and single threaded.
 It is a facy way of saying that javascript reads line by line.
-The browser provides api to block the code.
+The browser provides api to offload time consuming blocking code.
