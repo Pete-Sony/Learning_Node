@@ -6,4 +6,4 @@ There are different types of error handling keywords.
 * **finally** Lets you execute code after try and catch regardless of the result.
 * **throw** Lets you create custom errors.
 
-#### For the try/catch to work, the code must be runnable. This syntax must not be wrong.It only handles runtime error, so the code has to run.
+#### For the try/catch to work, This syntax must not be wrong.It only handles runtime error, so the code has to runnable.
