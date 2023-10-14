@@ -11,6 +11,5 @@ try {
 /* We are simulating an api call.
 SyntaxError is the name of the  error object and it passes the error.
 e.message reads the error. While e.name reads the error name.
-Read into it furthur.
-e.
+Read into it furthur.z
 */
