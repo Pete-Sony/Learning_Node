@@ -13,6 +13,7 @@ const getText = (path)=>{
     }
     )
 }
-getText("./0A-First.txt").then(result=>console.log(result)).catch(err=>console.log(err))
+getText("./0A-First.txt").then(result=>
+    console.log(result)).catch(err=>console.log(err))
 /* I dont think interchanging result and err in the promise chain would affect the code in any way
 */
