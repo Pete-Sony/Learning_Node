@@ -35,4 +35,11 @@ Therefore there are different flavours in markdown, one of the common one being 
 For both **bold** and *Italic* you triple the ***asterix and underscore***  
 You can also **_mix and match_**
 
-This is how you ~~cross off~~. By using tilde. 
+This is how you ~~cross off~~. By using  double tilde. 
+# Highlight
+you can highlight using an html tag with mark.
+<mark>highlight</mark>
+## Superscript and Subscript
+
+This is a ^superscript^
+Well most markdown functions does not work with github flavoured markdown.
